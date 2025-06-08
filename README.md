@@ -56,7 +56,7 @@ To reinforce data warehousing concepts by designing a complete **ETL pipeline**,
 | Step | Screenshot |
 |------|------------|
 | Raw CSV Data | ![Raw CSV](images/initial-data-frame.png) |
-| Star Schema Design | ![Schema](images/star-schema.png) |
+| Star Schema Design | ![Schema](images/ERD-schema.png) |
 | Data in PostgreSQL | ![PostgreSQL Tables](images/data-ingestion.png) |
 | PostgreSQL → Power BI | ![Power BI Connection](images/conect-postgre-powerbi.png) |
 | Final Dashboard | ![Dashboard](images/powerBI-dashoboard.png) |
